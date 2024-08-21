@@ -19,7 +19,7 @@ This Flask application provides a simple web interface for translating text betw
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/krishkrishna03/Language_Translation.git
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
